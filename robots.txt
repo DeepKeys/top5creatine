@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /og/
 
 Sitemap: https://top5creatine.be/sitemap.xml
